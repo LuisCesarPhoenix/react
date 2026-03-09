@@ -1,0 +1,3 @@
+Um lugar legal para testar códigos, principalmente quando estiver fazendo alguma coisa com reactjs, html, javascript ou css é o 
+codepen: https://codepen.io/
+É possível criar códigos e salvar na conta pessoal para estudar depois ou testar um componente.

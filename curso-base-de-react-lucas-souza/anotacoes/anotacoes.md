@@ -1,0 +1,1 @@
+O vite é o transpilador/compilador do react
